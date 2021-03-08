@@ -40,4 +40,7 @@ Library : Pyrogram 1.0.7 </b>
 🫂<b>Group:</b> @dent_tech_for_books
 
 ⚡️<b>Powered by :
-🔬 @dent_tech_for_u 📚 </b>"""
+🔬 @dent_tech_for_u 📚 </b>
+
+
+"""
