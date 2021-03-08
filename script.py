@@ -26,19 +26,22 @@ For more click <i>help</i></b>"""
 
 <b>© 🔬 @dent_tech_for_u 📚 ©</b>"""
 
-
-  ABOUT_MSG = """⭕️<b>👽My Name : @dental_library_bot</b>
     
-⚙<b>Creater :</b> @dr_danger_007
-🪄<b>Engine :
+   ABOUT_MSG = """⭕️<b>👽My Name : @dental_library_bot</b>
+  
+<i>     
+⚙<b>Creater</b> : @dr_danger_007
+
+🪄<b>Engine :</b>
 Language : Python3
 Library : Pyrogram 1.0.7 </b>
+
 📚<b>Library :</b> @dent_tech_for_u_library
 
 🫂<b>Group:</b> @dent_tech_for_books
 
-⚡️<b>Powered by :
-🔬 @dent_tech_for_u 📚 </b>
-      
+⚡️<b>Powered by :</b>
+🔬 @dent_tech_for_u 📚
+</i>
 
 """
