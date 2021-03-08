@@ -1,7 +1,6 @@
 class script(object):
 
-
-    START_MSG = """ <b>Hi {}
+     START_MSG = """ <b>Hi {}
 👽About Me👽
 ••••••••••••••••••••
 ● I will Automatically Search for your file and give links to that!
@@ -13,8 +12,7 @@ class script(object):
 
 For more click <i>help</i></b>"""
 
-
-    HELP_MSG = """<b>How to use the bot??</b>
+     HELP_MSG = """<b>How to use the bot??</b>
 <i>    
 👽About Me👽
 ••••••••••••••••••••
@@ -26,8 +24,7 @@ For more click <i>help</i></b>"""
 
 <b>© 🔬 @dent_tech_for_u 📚 ©</b>"""
 
-
-  ABOUT_MSG = """⭕️<b>👽My Name : @dental_library_bot</b>
+     ABOUT_MSG = """⭕️<b>👽My Name : @dental_library_bot</b>
     
 ⚙<b>Creater :</b> @dr_danger_007
 🪄<b>Engine :
@@ -38,7 +35,4 @@ Library : Pyrogram 1.0.7 </b>
 🫂<b>Group:</b> @dent_tech_for_books
 
 ⚡️<b>Powered by :
-🔬 @dent_tech_for_u 📚 </b>
-      
-
-"""
+🔬 @dent_tech_for_u 📚 </b>"""
