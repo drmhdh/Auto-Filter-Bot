@@ -14,7 +14,7 @@ class script(object):
 For more click <i>help</i></b>"""
 
 
-   HELP_MSG = """<b>How to use the bot??</b>
+    HELP_MSG = """<b>How to use the bot??</b>
 <i>    
 👽About Me👽
 ••••••••••••••••••••
@@ -23,6 +23,7 @@ For more click <i>help</i></b>"""
 ⚙ My master is still working on me, Hope i can give u more books in future 😇
 🤗 Our inline bot can give Books in my Database with inline search. you can use me in any chat by typing  @search_dentalbooks_bot
 </i>
+
 <b>© 🔬 @dent_tech_for_u 📚 ©</b>"""
 
 
