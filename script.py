@@ -27,8 +27,7 @@ For more click <i>help</i></b>"""
 <b>© 🔬 @dent_tech_for_u 📚 ©</b>"""
 
 
-  ABOUT_MSG = """⭕️<b>👽My Name : 
-  @dental_library_bot</b>
+  ABOUT_MSG = """⭕️<b>👽My Name : @dental_library_bot</b>
     
 ⚙<b>Creater :</b> @dr_danger_007
 🪄<b>Engine :
